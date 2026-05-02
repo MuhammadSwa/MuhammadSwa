@@ -2,7 +2,7 @@
 
 I like using and building open-source software.
 
-Egyptian 🇪🇬 | Dental Student | Founder of [Zahrawident](https://zahrawident.github.io/) & [Milki Labs](https://milkilabs.github.io/)
+Egyptian 🇪🇬 | Dental Student | Started [Zahrawident](https://zahrawident.github.io/) & [Milki Labs](https://milkilabs.github.io/)
 
 ---
 
